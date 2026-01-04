@@ -57,7 +57,6 @@ ROUSHAN SHARMA
 * **The Walls:** Uses a string array (`char *walls[]`) to store the architectural pattern (windows and door). It iterates through this array to build the house body.
 * **The Floor:** Prints a distinct bottom border.
 
-> **Note:** This code is designed for Windows environments due to the dependency on `windows.h`.
 
 ### Source Code
 
@@ -174,7 +173,7 @@ This problem determines the optimal order of operations for matrix multiplicatio
 
 The recurrence relation used in the code is:
 
-      <img width="512" height="116" alt="image" src="https://github.com/user-attachments/assets/93ed1244-ce34-4103-a83c-e558971155de" />
+<img width="512" height="116" alt="image" src="https://github.com/user-attachments/assets/93ed1244-ce34-4103-a83c-e558971155de" />
 
 
 Where:
