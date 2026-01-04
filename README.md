@@ -287,11 +287,7 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
 
 ```
 
-```
 
-
-
----
 
 ## 🧠 How It Works
 
@@ -319,8 +315,8 @@ To make the donut spin, the code applies a 3D rotation matrix to every point (x,
 The computer screen is 2D, but the math is 3D. To render this, the code performs **perspective projection**.
 
 * It calculates the distance of the point from the viewer.
-* It moves points that are further away closer to the center of the screen, creating the illusion of depth.
-* The variable `D` represents `1/z` (inverse depth), which is used to scale the  and  coordinates.
+* It moves points that are further away closer to the centre of the screen, creating the illusion of depth.
+* The variable `D` represents `1/z` (inverse depth), which is used to scale the coordinates.
 
 ### 4. The Z-Buffer (Depth Handling)
 
