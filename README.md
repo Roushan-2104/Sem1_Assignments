@@ -174,7 +174,8 @@ This problem determines the optimal order of operations for matrix multiplicatio
 
 The recurrence relation used in the code is:
 
-      $$Ways(n) = \sum_{k=1}^{n-1} Ways(k) \times Ways(n-k)$$
+      <img width="512" height="116" alt="image" src="https://github.com/user-attachments/assets/93ed1244-ce34-4103-a83c-e558971155de" />
+
 
 Where:
 
