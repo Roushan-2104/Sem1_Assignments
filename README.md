@@ -250,7 +250,9 @@ Number of ways to multiply 4 matrices: 5
 
 ---
 
-#Assignment 4: donut.c Explanation
+## Assignment 4: donut.c Explanation
+
+### Description
 
 This repository contains an explanation and analysis of the famous **donut.c** code, originally written by [Andy Sloane](https://www.a1k0n.net/2011/07/20/donut-math.html) in 2006. It is a masterpiece of obfuscated C programming that renders a spinning 3D torus (donut) using ASCII characters.
 
