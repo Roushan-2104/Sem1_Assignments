@@ -4,10 +4,10 @@ This repository contains three distinct C programs covering syntax tricks, ASCII
 
 ## Table of Contents
 
-1. [Assignment 1: Print name without using semicolon in entire program](https://www.google.com/search?q=%23assignment-1-semicolon-less-printing)
-2. [Assignment 2: ASCII House Animation](https://www.google.com/search?q=%23assignment-2-ascii-house-animation)
-3. [Assignment 3: Matrix Chain Multiplication (Recursion)](https://www.google.com/search?q=%23assignment-3-matrix-chain-multiplication-recursion)
-4. [Assignment 4: donut.c Explanation]()
+1. [Assignment 1: Print name without using semicolon in entire program](https://github.com/Roushan-2104/Sem1_Assignments/blob/main/printNameWithoutSemicolon.c)
+2. [Assignment 2: ASCII House Animation](https://github.com/Roushan-2104/Sem1_Assignments/blob/main/house.c)
+3. [Assignment 3: Matrix Chain Multiplication (Recursion)](https://github.com/Roushan-2104/Sem1_Assignments/blob/main/recusrsionMatr.c)
+4. [Assignment 4: donut.c Explanation](https://github.com/Roushan-2104/Sem1_Assignments/blob/main/donut.c)
 
 ---
 
